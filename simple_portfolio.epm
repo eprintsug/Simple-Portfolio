@@ -41,6 +41,60 @@ ZCggJGxpICk7CiAgICB9CiAgICByZXR1cm4gJHVsOwp9Owo=
         </file>
         <file>
           <datasetid>document</datasetid>
+          <filename>epm/simple_portfolio/cgi/users/lookup/repository_records</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>b52e8753d9ce9f7d8220ee1f4f95360e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2513</filesize>
+          <data encoding='base64'>IyBFUHJpbnRzIFNlcnZpY2VzIHN0YWZmIG5hbWUgbG9va3VwDQp1c2UgRVByaW50czsNCg0KdXNl
+IHN0cmljdDsNCg0KbXkgJHNlc3Npb24gPSBFUHJpbnRzOjpTZXNzaW9uLT5uZXcoKTsNCg0KbXkg
+JGNvbnRlbnQgPSAidGV4dC94bWwiOw0KJHNlc3Npb24tPnNlbmRfaHR0cF9oZWFkZXIoIGNvbnRl
+bnRfdHlwZT0+JGNvbnRlbnQgKTsNCm15ICR0aXRsZSA9ICRzZXNzaW9uLT5wYXJhbSggInEiICk7
+DQoNCm15ICRkYXRhYmFzZSA9ICRzZXNzaW9uLT5nZXRfZGF0YWJhc2U7DQpteSAkZGF0YXNldCA9
+ICRzZXNzaW9uLT5nZXRfcmVwb3NpdG9yeS0+Z2V0X2RhdGFzZXQoICJlcHJpbnQiICk7DQpteSAk
+aWRfZmllbGQgPSAkZGF0YXNldC0+Z2V0X2ZpZWxkKCAiZXByaW50aWQiICk7DQpteSAkdGl0bGVf
+ZmllbGQgPSAkZGF0YXNldC0+Z2V0X2ZpZWxkKCAidGl0bGUiICk7DQpteSAkdHlwZV9maWVsZCA9
+ICRkYXRhc2V0LT5nZXRfZmllbGQoICJ0eXBlIiApOw0KDQpteSBAZmllbGRzID0gKCRpZF9maWVs
+ZC0+Z2V0X3NxbF9uYW1lcywgJHRpdGxlX2ZpZWxkLT5nZXRfc3FsX25hbWVzLCAkdHlwZV9maWVs
+ZC0+Z2V0X3NxbF9uYW1lcyk7DQoNCm15ICRRX3RhYmxlID0gJGRhdGFiYXNlLT5xdW90ZV9pZGVu
+dGlmaWVyKCRkYXRhc2V0LT5nZXRfc3FsX3RhYmxlX25hbWUpOw0KbXkgJFFfZXByaW50X3N0YXR1
+cyA9ICAkZGF0YWJhc2UtPnF1b3RlX2lkZW50aWZpZXIoICJlcHJpbnRfc3RhdHVzIiApOw0KDQpt
+eSAkc3FsID0gIlNFTEVDVCAiIC4gam9pbigiLCIsIG1hcCB7ICRkYXRhYmFzZS0+cXVvdGVfaWRl
+bnRpZmllcigkXykgfSBAZmllbGRzICkgLg0KICAgICAgICAiIEZST00gJFFfdGFibGUiIC4NCiAg
+ICAgICAgIiBXSEVSRSAkUV9lcHJpbnRfc3RhdHVzID0iLiRkYXRhYmFzZS0+cXVvdGVfdmFsdWUo
+ICJhcmNoaXZlIiApOw0KaWYoIEVQcmludHM6OlV0aWxzOjppc19zZXQoICR0aXRsZSApICkNCnsN
+CiAgICAgICAgJHNxbCAuPSAiIEFORCAiLiRkYXRhYmFzZS0+cXVvdGVfaWRlbnRpZmllcigidGl0
+bGUiKS4kZGF0YWJhc2UtPnNxbF9MSUtFKCkuJGRhdGFiYXNlLT5xdW90ZV92YWx1ZShFUHJpbnRz
+OjpEYXRhYmFzZTo6cHJlcF9saWtlX3ZhbHVlKCR0aXRsZSkuJyUnKTsNCn0NCiRzcWwgLj0gIk9S
+REVSIEJZICIgLg0KICAgICAgICAkZGF0YWJhc2UtPnF1b3RlX2lkZW50aWZpZXIoInRpdGxlIik7
+DQoNCm15IEByb3dzOw0KbXkgJHN0aCA9ICRzZXNzaW9uLT5nZXRfZGF0YWJhc2UtPnByZXBhcmVf
+c2VsZWN0KCAkc3FsLCAnbGltaXQnID0+IDQwICk7DQokc2Vzc2lvbi0+Z2V0X2RhdGFiYXNlLT5l
+eGVjdXRlKCAkc3RoICwgJHNxbCApOw0Kd2hpbGUoIG15IEByb3cgPSAkc3RoLT5mZXRjaHJvd19h
+cnJheSApDQp7DQoNCiAgICBteSAkZXByaW50aWQgPSAkaWRfZmllbGQtPnZhbHVlX2Zyb21fc3Fs
+X3JvdyggJHNlc3Npb24sIFxAcm93ICk7DQogICAgbXkgJHRpdGxlID0gJHRpdGxlX2ZpZWxkLT52
+YWx1ZV9mcm9tX3NxbF9yb3coICRzZXNzaW9uLCBcQHJvdyApOw0KICAgIG15ICR0eXBlID0gJHR5
+cGVfZmllbGQtPnZhbHVlX2Zyb21fc3FsX3JvdyggJHNlc3Npb24sIFxAcm93ICk7DQoNCiAgICBt
+eSAkZXByaW50ID0gJGRhdGFzZXQtPmRhdGFvYmooICRlcHJpbnRpZCApOw0KICAgIG15ICR1cmwg
+PSAkZXByaW50LT5nZXRfdXJsOw0KDQogICAgbXkgJGl0ZW0gPSB7fTsNCiAgICBwdXNoIEByb3dz
+LCAkaXRlbTsNCg0KICAgIG15ICRmcmFnID0gJHNlc3Npb24tPm1ha2VfZG9jX2ZyYWdtZW50Ow0K
+DQogICAgJGZyYWctPmFwcGVuZENoaWxkKCAkdGl0bGVfZmllbGQtPnJlbmRlcl9zaW5nbGVfdmFs
+dWUoICRzZXNzaW9uLCAkdGl0bGUgKSApOw0KICAgICRmcmFnLT5hcHBlbmRDaGlsZCggJHNlc3Np
+b24tPm1ha2VfdGV4dCggIiAoIiApICk7DQogICAgJGZyYWctPmFwcGVuZENoaWxkKCAkc2Vzc2lv
+bi0+aHRtbF9waHJhc2UoICJlcHJpbnRfdHlwZW5hbWVfJHR5cGUiICkgKTsNCiAgICAkZnJhZy0+
+YXBwZW5kQ2hpbGQoICRzZXNzaW9uLT5tYWtlX3RleHQoICIpIiApICk7DQoNCiAgICAkaXRlbS0+
+e3hodG1sfSA9ICRmcmFnOw0KICAgICRpdGVtLT57dmFsdWVzfSA9IFsNCiAgICAgICAgImZvcjp2
+YWx1ZTpyZWxhdGl2ZToiID0+ICRlcHJpbnRpZCwNCiAgICBdOw0KfQ0KDQokc3RoLT5maW5pc2go
+KTsNCg0KbXkgJHVsID0gRVByaW50czo6RXh0cmFzOjpyZW5kZXJfbG9va3VwX2xpc3QoICRzZXNz
+aW9uLCBcQHJvd3MgKTsNCg0KJHNlc3Npb24tPnNlbmRfaHR0cF9oZWFkZXIoIGNvbnRlbnRfdHlw
+ZSA9PiAidGV4dC94bWw7IGNoYXJzZXQ9VVRGLTgiICk7DQoNCmJpbm1vZGUoU1RET1VULCI6dXRm
+OCIpOw0KcHJpbnQgPDxFTkQ7DQo8P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCIg
+Pz4NCg0KRU5EDQpwcmludCBFUHJpbnRzOjpYTUw6OnRvX3N0cmluZyggJHVsLCAidXRmLTgiLCAx
+ICk7DQoNCkVQcmludHM6OlhNTDo6ZGlzcG9zZSggJHVsICk7DQoNCiRzZXNzaW9uLT50ZXJtaW5h
+dGU7DQo=
+</data>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
           <filename>lang/en/phrases/simple_portfolio.xml</filename>
           <mime_type>application/xml</mime_type>
           <hash>43adfe8d8a7d32c0c7026c536176b6a2</hash>
@@ -111,9 +165,9 @@ CgogICAgJHNlbGYtPnJlbG9hZF9jb25maWcgaWYgISRza2lwX3JlbG9hZDsKfQo=
           <datasetid>document</datasetid>
           <filename>workflows/eprint/simple_portfolio.xml</filename>
           <mime_type>application/xml</mime_type>
-          <hash>a09e373c117bafa5192b2283e46ae21a</hash>
+          <hash>37b7d89d957370df778a20c26589b703</hash>
           <hash_type>MD5</hash_type>
-          <filesize>471</filesize>
+          <filesize>559</filesize>
           <data encoding='base64'>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KCjx3b3JrZmxvdyB4bWxucz0i
 aHR0cDovL2VwcmludHMub3JnL2VwMy93b3JrZmxvdyIgeG1sbnM6ZXBjPSJodHRwOi8vZXByaW50
 cy5vcmcvZXAzL2NvbnRyb2wiPgoKPGZsb3c+CiAgICA8ZXBjOmZvcmVhY2ggZXhwcj0iJGNvbmZp
@@ -121,8 +175,9 @@ Z3twb3J0Zm9saW99e2l0ZW1fdHlwZXN9IiBpdGVyYXRvcj0iaXRlbV90eXBlIj4KICAgICAgICA8
 ZXBjOmlmIHRlc3Q9IiggdHlwZSA9ICRpdGVtX3R5cGUgKSI+CiAgICAgICAgICAgIDxzdGFnZSBy
 ZWY9InNpbXBsZV9wb3J0Zm9saW8iIC8+CiAgICAgICAgPC9lcGM6aWY+CiAgICA8L2VwYzpmb3Jl
 YWNoPgo8L2Zsb3c+Cgo8c3RhZ2UgbmFtZT0ic2ltcGxlX3BvcnRmb2xpbyI+CiAgICA8Y29tcG9u
-ZW50PjxmaWVsZCByZWY9InJlcG9zaXRvcnlfcmVjb3JkcyIvPjwvY29tcG9uZW50Pgo8L3N0YWdl
-PgoKPC93b3JrZmxvdz4K
+ZW50PgogICAgICAgIDxmaWVsZCByZWY9InJlcG9zaXRvcnlfcmVjb3JkcyIgaW5wdXRfbG9va3Vw
+X3VybD0ieyRjb25maWd7cmVsX2NnaXBhdGh9fS91c2Vycy9sb29rdXAvcmVwb3NpdG9yeV9yZWNv
+cmRzIi8+CiAgICA8L2NvbXBvbmVudD4KPC9zdGFnZT4KCjwvd29ya2Zsb3c+Cg==
 </data>
         </file>
       </files>
@@ -145,4 +200,5 @@ PgoKPC93b3JrZmxvdz4K
   </creators>
   <title>Simple Portfolio</title>
   <description>Provides basic portfolio functionality, namely a new portfolio item type, along with a field that can be used to reference other items in the repository.</description>
+  <home_page>https://github.com/eprintsug/Simple-Portfolio</home_page>
 </epm>

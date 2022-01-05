@@ -11,7 +11,9 @@
 </flow>
 
 <stage name="simple_portfolio">
-    <component><field ref="repository_records"/></component>
+    <component>
+        <field ref="repository_records" input_lookup_url="{$config{rel_cgipath}}/users/lookup/repository_records"/>
+    </component>
 </stage>
 
 </workflow>

@@ -23,6 +23,14 @@
         </file>
         <file>
           <datasetid>document</datasetid>
+          <filename>epm/simple_portfolio/cgi/users/lookup/repository_records</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>b52e8753d9ce9f7d8220ee1f4f95360e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2513</filesize>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
           <filename>lang/en/phrases/simple_portfolio.xml</filename>
           <mime_type>application/xml</mime_type>
           <hash>43adfe8d8a7d32c0c7026c536176b6a2</hash>
@@ -41,9 +49,9 @@
           <datasetid>document</datasetid>
           <filename>workflows/eprint/simple_portfolio.xml</filename>
           <mime_type>application/xml</mime_type>
-          <hash>a09e373c117bafa5192b2283e46ae21a</hash>
+          <hash>37b7d89d957370df778a20c26589b703</hash>
           <hash_type>MD5</hash_type>
-          <filesize>471</filesize>
+          <filesize>559</filesize>
         </file>
       </files>
       <mime_type>application/xml</mime_type>
@@ -65,4 +73,5 @@
   </creators>
   <title>Simple Portfolio</title>
   <description>Provides basic portfolio functionality, namely a new portfolio item type, along with a field that can be used to reference other items in the repository.</description>
+  <home_page>https://github.com/eprintsug/Simple-Portfolio</home_page>
 </epm>
