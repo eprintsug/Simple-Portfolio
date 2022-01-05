@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://localhost:8080/id/epm/simple_portfolio'>
+  <epmid>simple_portfolio</epmid>
+  <uri>http://localhost:8080/id/epm/simple_portfolio</uri>
+  <documents>
+    <document>
+      <files>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>cfg.d/z_portfolio_field.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>386106c118e213e999ab29698dec243b</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>190</filesize>
+          <data encoding='base64'>cHVzaCBAeyRjLT57ZmllbGRzfS0+e2VwcmludH19LAp7CiAgICBuYW1lID0+ICdyZXBvc2l0b3J5
+X3JlY29yZHMnLAogICAgdHlwZSA9PiAnaXRlbXJlZicsCiAgICBkYXRhc2V0aWQgPT4gJ2FyY2hp
+dmUnLAogICAgbXVsdGlwbGUgPT4gMSwKICAgIHJlbmRlcl92YWx1ZSA9PiAncmVuZGVyX3JlcG9z
+aXRvcnlfcmVjb3JkcycsCn0sCg==
+</data>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>epm/simple_portfolio/cfg/cfg.d/z_simple_portfolio.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>48de2ff9985747e038414eed0d7a7f1e</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>662</filesize>
+          <data encoding='base64'>IyBUaGUgaXRlbXMgd2hpY2ggZGlzcGxheSB0aGUgcG9ydGZvbGlvIGRlcG9zaXQgd29ya2Zsb3cg
+c3RhZ2UKJGMtPntwb3J0Zm9saW99LT57aXRlbV90eXBlc30gPSBbJ3BvcnRmb2xpbyddOwoKIyBS
+ZW5kZXJlciBmb3IgdGhlIHBvcnRmb2xpbyBmaWVsZCAtIGRpc3BsYXlzIGVhY2ggaXRlbSBpbiBh
+IGJ1bGxldCBwb2ludCBsaXN0CiRjLT57cmVuZGVyX3JlcG9zaXRvcnlfcmVjb3Jkc30gPSBzdWIK
+ewogICAgbXkoICRzZXNzaW9uLCAkZmllbGQsICR2YWx1ZSApID0gQF87CgogICAgbXkgJGRhdGFz
+ZXQgPSAkc2Vzc2lvbi0+ZGF0YXNldCggImVwcmludCIgKTsKCiAgICBteSAkdWwgPSAkc2Vzc2lv
+bi0+bWFrZV9lbGVtZW50KCAidWwiLCBjbGFzcyA9PiAicmVwb3NpdG9yeV9yZWNvcmRzX2NpdGF0
+aW9ucyIgKTsKICAgIGZvcmVhY2ggbXkgJGlkICggQHskdmFsdWV9ICkKICAgIHsKICAgICAgICBt
+eSAkbGkgPSAkc2Vzc2lvbi0+bWFrZV9lbGVtZW50KCAibGkiICk7CgogICAgICAgIG15ICRlcHJp
+bnQgPSAkZGF0YXNldC0+ZGF0YW9iaiggJGlkICk7CiAgICAgICAgJGxpLT5hcHBlbmRDaGlsZCgg
+JGVwcmludC0+cmVuZGVyX2NpdGF0aW9uX2xpbmsgKTsKCiAgICAgICAgJHVsLT5hcHBlbmRDaGls
+ZCggJGxpICk7CiAgICB9CiAgICByZXR1cm4gJHVsOwp9Owo=
+</data>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>lang/en/phrases/simple_portfolio.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>43adfe8d8a7d32c0c7026c536176b6a2</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>770</filesize>
+          <data encoding='base64'>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
+RE9DVFlQRSBwaHJhc2VzIFNZU1RFTSAiZW50aXRpZXMuZHRkIj4KPGVwcDpwaHJhc2VzIHhtbG5z
+PSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxuczplcHA9Imh0dHA6Ly9lcHJpbnRz
+Lm9yZy9lcDMvcGhyYXNlIiB4bWxuczplcGM9Imh0dHA6Ly9lcHJpbnRzLm9yZy9lcDMvY29udHJv
+bCI+Cgo8ZXBwOnBocmFzZSBpZD0iZXByaW50X3R5cGVuYW1lX3BvcnRmb2xpbyI+UG9ydGZvbGlv
+PC9lcHA6cGhyYXNlPgo8ZXBwOnBocmFzZSBpZD0iZXByaW50X29wdGRldGFpbHNfdHlwZV9wb3J0
+Zm9saW8iPkEgcG9ydGZvbGlvLCBjb2xsZWN0aW5nIHRvZ2V0aGVyIGEgbnVtYmVyIG9mIG90aGVy
+IGl0ZW1zIGZyb20gdGhlIHJlcG9zaXRvcnkuPC9lcHA6cGhyYXNlPgoKPGVwcDpwaHJhc2UgaWQ9
+Im1ldGFwYWdlX3RpdGxlX3NpbXBsZV9wb3J0Zm9saW8iPlBvcnRmb2xpbzwvZXBwOnBocmFzZT4K
+CjxlcHA6cGhyYXNlIGlkPSJlcHJpbnRfZmllbGRuYW1lX3JlcG9zaXRvcnlfcmVjb3JkcyI+UG9y
+dGZvbGlvIEl0ZW1zPC9lcHA6cGhyYXNlPgo8ZXBwOnBocmFzZSBpZD0iZXByaW50X2ZpZWxkaGVs
+cF9yZXBvc2l0b3J5X3JlY29yZHMiPlN0YXJ0IHR5cGluZyB0aGUgdGl0bGVzIG9mIG90aGVyIHJl
+Y29yZHMgZnJvbSB0aGUgcmVwb3NpdG9yeSB0byBhZGQgdGhlbSB0byB0aGUgcG9ydGZvbGlvLjwv
+ZXBwOnBocmFzZT4KCgo8L2VwcDpwaHJhc2VzPgo=
+</data>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>plugins/EPrints/Plugin/Screen/EPMC/SimplePortfolio.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>903823e203cba79e87702519e4c954f4</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2042</filesize>
+          <data encoding='base64'>cGFja2FnZSBFUHJpbnRzOjpQbHVnaW46OlNjcmVlbjo6RVBNQzo6U2ltcGxlUG9ydGZvbGlvOwoK
+QElTQSA9ICggJ0VQcmludHM6OlBsdWdpbjo6U2NyZWVuOjpFUE1DJyApOwoKdXNlIHN0cmljdDsK
+IyBNYWtlIHRoZSBwbHVnLWluCnN1YiBuZXcKewogICAgbXkoICRjbGFzcywgJXBhcmFtcyApID0g
+QF87CgogICAgbXkgJHNlbGYgPSAkY2xhc3MtPlNVUEVSOjpuZXcoICVwYXJhbXMgKTsKCiAgICAk
+c2VsZi0+e2FjdGlvbnN9ID0gW3F3KCBlbmFibGUgZGlzYWJsZSApXTsKICAgICRzZWxmLT57ZGlz
+YWJsZX0gPSAwOyAjIGFsd2F5cyBlbmFibGVkLCBldmVuIGluIGxpYi9wbHVnaW5zCgogICAgJHNl
+bGYtPntwYWNrYWdlX25hbWV9ID0gJ3NpbXBsZV9wb3J0Zm9saW8nOwoKICAgIHJldHVybiAkc2Vs
+ZjsKfQoKPWl0ZW0gJHNjcmVlbi0+YWN0aW9uX2VuYWJsZSggWyBTS0lQX1JFTE9BRCBdICkKCkVu
+YWJsZSB0aGUgTDxFUHJpbnRzOjpEYXRhT2JqOjpFUE0+IGZvciB0aGUgY3VycmVudCByZXBvc2l0
+b3J5LgoKSWYgU0tJUF9SRUxPQUQgaXMgdHJ1ZSB3aWxsIG5vdCByZWxvYWQgdGhlIHJlcG9zaXRv
+cnkgY29uZmlndXJhdGlvbi4KCj1jdXQKCnN1YiBhY3Rpb25fZW5hYmxlCnsKICAgIG15KCAkc2Vs
+ZiwgJHNraXBfcmVsb2FkICkgPSBAXzsKCiAgICAkc2VsZi0+U1VQRVI6OmFjdGlvbl9lbmFibGUo
+ICRza2lwX3JlbG9hZCApOwogICAgbXkgJHJlcG8gPSAkc2VsZi0+e3JlcG9zaXRvcnl9OwoKICAg
+ICMgQWRkIG5ldyBFUHJpbnQgdHlwZQogICAgbXkgJG5hbWVkc2V0ID0gRVByaW50czo6TmFtZWRT
+ZXQtPm5ldyggImVwcmludCIsCiAgICAgICAgcmVwb3NpdG9yeSA9PiAkcmVwbwogICAgKTsKICAg
+ICRuYW1lZHNldC0+YWRkX29wdGlvbiggInBvcnRmb2xpbyIsICRzZWxmLT57cGFja2FnZV9uYW1l
+fSApOwoKICAgICMgVXBkYXRlIHRoZSBkZXBvc2l0IHdvcmtmbG93IHdpdGggYSBuZXcgc3RhZ2UK
+ICAgIG15ICRmaWxlbmFtZSA9ICRyZXBvLT5jb25maWcoICJjb25maWdfcGF0aCIgKS4iL3dvcmtm
+bG93cy9lcHJpbnQvZGVmYXVsdC54bWwiOwogICAgbXkgJGluc2VydCA9IEVQcmludHM6OlhNTDo6
+cGFyc2VfeG1sKCAkcmVwby0+Y29uZmlnKCAibGliX3BhdGgiICkuIi93b3JrZmxvd3MvZXByaW50
+L3NpbXBsZV9wb3J0Zm9saW8ueG1sIiApOwogICAgRVByaW50czo6WE1MOjphZGRfdG9feG1sKCAk
+ZmlsZW5hbWUsICRpbnNlcnQtPmRvY3VtZW50RWxlbWVudCgpLCAkc2VsZi0+e3BhY2thZ2VfbmFt
+ZX0gKTsKCiAgICAkc2VsZi0+cmVsb2FkX2NvbmZpZyBpZiAhJHNraXBfcmVsb2FkOwp9Cgo9aXRl
+bSAkc2NyZWVuLT5hY3Rpb25fZGlzYWJsZSggWyBTS0lQX1JFTE9BRCBdICkKCkRpc2FibGUgdGhl
+IEw8RVByaW50czo6RGF0YU9iajo6RVBNPiBmb3IgdGhlIGN1cnJlbnQgcmVwb3NpdG9yeS4KCklm
+IFNLSVBfUkVMT0FEIGlzIHRydWUgd2lsbCBub3QgcmVsb2FkIHRoZSByZXBvc2l0b3J5IGNvbmZp
+Z3VyYXRpb24uCgo9Y3V0CgpzdWIgYWN0aW9uX2Rpc2FibGUKewogICAgbXkoICRzZWxmLCAkc2tp
+cF9yZWxvYWQgKSA9IEBfOwoKICAgICRzZWxmLT5TVVBFUjo6YWN0aW9uX2Rpc2FibGUoICRza2lw
+X3JlbG9hZCApOwogICAgbXkgJHJlcG8gPSAkc2VsZi0+e3JlcG9zaXRvcnl9OwoKICAgICMgUmVt
+b3ZlIG5ldyBFUHJpbnQgdHlwZQogICAgbXkgJG5hbWVkc2V0ID0gRVByaW50czo6TmFtZWRTZXQt
+Pm5ldyggImVwcmludCIsCiAgICAgICAgcmVwb3NpdG9yeSA9PiAkcmVwbwogICAgKTsKCiAgICAk
+bmFtZWRzZXQtPnJlbW92ZV9vcHRpb24oICJwb3J0Zm9saW8iLCAkc2VsZi0+e3BhY2thZ2VfbmFt
+ZX0gKTsKICAgCiAgICBteSAkZmlsZW5hbWUgPSAkcmVwby0+Y29uZmlnKCAiY29uZmlnX3BhdGgi
+ICkuIi93b3JrZmxvd3MvZXByaW50L2RlZmF1bHQueG1sIjsKICAgIEVQcmludHM6OlhNTDo6cmVt
+b3ZlX3BhY2thZ2VfZnJvbV94bWwoICRmaWxlbmFtZSwgJHNlbGYtPntwYWNrYWdlX25hbWV9ICk7
+CgogICAgJHNlbGYtPnJlbG9hZF9jb25maWcgaWYgISRza2lwX3JlbG9hZDsKfQo=
+</data>
+        </file>
+        <file>
+          <datasetid>document</datasetid>
+          <filename>workflows/eprint/simple_portfolio.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>a09e373c117bafa5192b2283e46ae21a</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>471</filesize>
+          <data encoding='base64'>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KCjx3b3JrZmxvdyB4bWxucz0i
+aHR0cDovL2VwcmludHMub3JnL2VwMy93b3JrZmxvdyIgeG1sbnM6ZXBjPSJodHRwOi8vZXByaW50
+cy5vcmcvZXAzL2NvbnRyb2wiPgoKPGZsb3c+CiAgICA8ZXBjOmZvcmVhY2ggZXhwcj0iJGNvbmZp
+Z3twb3J0Zm9saW99e2l0ZW1fdHlwZXN9IiBpdGVyYXRvcj0iaXRlbV90eXBlIj4KICAgICAgICA8
+ZXBjOmlmIHRlc3Q9IiggdHlwZSA9ICRpdGVtX3R5cGUgKSI+CiAgICAgICAgICAgIDxzdGFnZSBy
+ZWY9InNpbXBsZV9wb3J0Zm9saW8iIC8+CiAgICAgICAgPC9lcGM6aWY+CiAgICA8L2VwYzpmb3Jl
+YWNoPgo8L2Zsb3c+Cgo8c3RhZ2UgbmFtZT0ic2ltcGxlX3BvcnRmb2xpbyI+CiAgICA8Y29tcG9u
+ZW50PjxmaWVsZCByZWY9InJlcG9zaXRvcnlfcmVjb3JkcyIvPjwvY29tcG9uZW50Pgo8L3N0YWdl
+PgoKPC93b3JrZmxvdz4K
+</data>
+        </file>
+      </files>
+      <mime_type>application/xml</mime_type>
+      <format>other</format>
+      <main>workflows/eprint/simple_portfolio.xml</main>
+      <content>install</content>
+    </document>
+  </documents>
+  <version>1.0.0</version>
+  <controller>EPMC::SimplePortfolio</controller>
+  <creators>
+    <item>
+      <name>
+        <family>Fyson</family>
+        <given>Will</given>
+      </name>
+      <id>will.fyson@cosector.com</id>
+    </item>
+  </creators>
+  <title>Simple Portfolio</title>
+  <description>Provides basic portfolio functionality, namely a new portfolio item type, along with a field that can be used to reference other items in the repository.</description>
+</epm>
