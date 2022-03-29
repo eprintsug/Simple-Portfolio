@@ -1,3 +1,13 @@
+# Add the new field
+push @{$c->{fields}->{eprint}},
+{
+    name => 'repository_records',
+    type => 'itemref',
+    datasetid => 'archive',
+    multiple => 1,
+    render_value => 'render_repository_records',
+};
+
 # The items which display the portfolio deposit workflow stage
 $c->{portfolio}->{item_types} = ['portfolio'];
 

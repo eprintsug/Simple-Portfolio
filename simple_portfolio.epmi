@@ -7,19 +7,11 @@
       <files>
         <file>
           <datasetid>document</datasetid>
-          <filename>cfg.d/z_portfolio_field.pl</filename>
-          <mime_type>text/plain</mime_type>
-          <hash>386106c118e213e999ab29698dec243b</hash>
-          <hash_type>MD5</hash_type>
-          <filesize>190</filesize>
-        </file>
-        <file>
-          <datasetid>document</datasetid>
           <filename>epm/simple_portfolio/cfg/cfg.d/z_simple_portfolio.pl</filename>
           <mime_type>text/plain</mime_type>
-          <hash>48de2ff9985747e038414eed0d7a7f1e</hash>
+          <hash>69980de202078334c107cc4c1f3e5322</hash>
           <hash_type>MD5</hash_type>
-          <filesize>662</filesize>
+          <filesize>873</filesize>
         </file>
         <file>
           <datasetid>document</datasetid>
